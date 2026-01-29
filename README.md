@@ -1,7 +1,8 @@
 # Library System Project
 
 ## Student Information
-- Name: Mustafa Qaid Alwajeeh
+- Name: Mustafa Qaid Alwajeeh-- cs Group 2 
+- name : Mohammed Tawfiq Al - Mahtouri---Engهندسه برمجيات 
 - Group: 2
 - Course: Data Structure
 

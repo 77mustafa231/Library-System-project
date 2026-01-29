@@ -3,7 +3,7 @@
 ## Student Information
 - Name: Mustafa Qaid Alwajeeh
 - Group: 2
-- name :Mohammed Tawfiq Al - Mahtouri --هندسه برمجيات 
+- name :Mohammed Abu Hadi  --هندسه برمجيات 
 - Course: Data Structure
 
 ## Description
